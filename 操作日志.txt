@@ -41,3 +41,6 @@
 回顾了课上学过的动态路由3大，RIP，OSPF还有BGP，了解到RIP现在在实践中已经过时了(悲
 了解了OSPF在实践中的组成结构(Router-ID, OSPF Area, OSPF Cost)，注意链路开销是算**整条路的**,以及OSPF的五种报文
 2025.01.19
+
+补充了OSPF cost的计算方式
+2025.01.25
